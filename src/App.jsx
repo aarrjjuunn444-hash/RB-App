@@ -3,14 +3,14 @@ import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
-import Userform from './Pages/Userform'
-import Viewresume from './Pages/Viewresume'
-import Pnf from './Pages/Pnf'
-import Allresumes from './Pages/Allresumes'
+import Userform from './Pages/Userform.jsx'
+import Viewresume from './Pages/Viewresume.jsx'
+import Pnf from './Pages/Pnf.jsx'
+import Allresumes from './Pages/Allresumes.jsx'
 import { ToastContainer } from 'react-toastify';
-import Downloads from './Pages/Downloads'
-import Resumesteps from './Pages/Resumesteps'
-import Home from './Pages/Home'
+import Downloads from './Pages/Downloads.jsx'
+import Resumesteps from './Pages/Resumesteps.jsx'
+import Home from './Pages/Home.jsx'
 
 function App() {
   
