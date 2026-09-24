@@ -8,9 +8,9 @@ import Viewresume from './Pages/Viewresume'
 import Pnf from './Pages/Pnf'
 import Allresumes from './Pages/Allresumes'
 import { ToastContainer } from 'react-toastify';
-import Downloads from './pages/Downloads'
-import Resumesteps from './pages/Resumesteps'
-import Home from './pages/Home'
+import Downloads from './Pages/Downloads'
+import Resumesteps from './Pages/Resumesteps'
+import Home from './Pages/Home'
 
 function App() {
   
