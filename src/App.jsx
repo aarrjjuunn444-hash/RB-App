@@ -1,16 +1,15 @@
-
-import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import Header from './Components/Header'
-import Footer from './Components/Footer'
-import Userform from './Pages/Userform.jsx'
-import Viewresume from './Pages/Viewresume.jsx'
-import Pnf from './Pages/Pnf.jsx'
+import Header from './Components/Header.jsx'
+import { Route, Routes } from 'react-router-dom'
+import Home from './pages/Home.jsx'
+import Resumesteps from './pages/Resumesteps.jsx'
+import Userform from './pages/Userform.jsx'
+import Downloads from './pages/Downloads.jsx'
 import Allresumes from './Pages/Allresumes.jsx'
-import { ToastContainer } from 'react-toastify';
-import Downloads from './Pages/Downloads.jsx'
-import Resumesteps from './Pages/Resumesteps.jsx'
-import Home from './Pages/Home.jsx'
+import Footer from './Components/Footer.jsx'
+import { ToastContainer } from 'react-toastify'
+import Viewresume from './Pages/Viewresume.jsx'
+import Pnf from './pages/pnf.jsx'
 
 function App() {
   
